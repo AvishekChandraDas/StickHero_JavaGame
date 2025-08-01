@@ -1,6 +1,10 @@
 # Stick Hero Game
 
+[![Java CI with Gradle](https://github.com/AvishekChandraDas/StickHero_JavaGame/actions/workflows/gradle.yml/badge.svg)](https://github.com/AvishekChandraDas/StickHero_JavaGame/actions/workflows/gradle.yml)
+
 A JavaFX implementation of the popular Stick Hero mobile game where players must extend a stick to the perfect length to bridge gaps between platforms.
+
+![Stick Hero Game Screenshot](https://raw.githubusercontent.com/AvishekChandraDas/StickHero_JavaGame/main/screenshots/game-screenshot.png)
 
 ## Game Description
 
