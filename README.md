@@ -154,3 +154,4 @@ The game demonstrates several important JavaFX concepts:
 ## License
 
 This is a demonstration project. Feel free to use and modify as needed for learning purposes.
+# StickHero_JavaGame
